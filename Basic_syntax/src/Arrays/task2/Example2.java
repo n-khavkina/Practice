@@ -1,8 +1,7 @@
-package ArraysEx;
-
-import java.util.Arrays;
+package Arrays.task2;
 
 public class Example2 {
+
     public static void main(String[] args) {
         int [][] array = new int[10][10];
         for (int i = 0; i < array.length; i++) {

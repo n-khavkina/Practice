@@ -1,13 +1,8 @@
-package ArraysEx;
+package Arrays.JavaRushTask1;
 
 import java.util.Scanner;
 
 public class JavaRushMultiArray {
-    /*1. Создать двумерный массив
-      2. Проинициализировать массив вводом с консоли (n - количество строк, m - количество элементов в строке).
-      3. Записать в каждый элемент двумерного массива 1
-      4. Вывести массив в консоль
-     */
     static int[][] multiArray;
 
     public static void main(String[] args) {
